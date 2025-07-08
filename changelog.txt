@@ -1,0 +1,10 @@
+===============Added==================
+>New sound effect when previous highscore is beaten
+>New sound effect when the player dies
+>Stops the music to play the death sound 
+>Secondary boss added
+>Highscore added
+>Made .bat file to not need to open VSC
+
+===============Fixes needed===========
+
